@@ -1,12 +1,12 @@
 <h1>News</h1>
 
 <div class="activity-feed">
-    <h2>Latest Updates</h2>
-    <!--div class="activity-item">
-        <p>I am a passionate programmer with a decade-long journey in software development.</p>
+    <h2>Starting this web page</h2>
+    <div class="activity-date">17 November 2025</div>
 
-        <img src="/images/selfie_crop.jpg" alt="Programmer at work" style="max-width: 300px; border-radius: 150px">
-    </div>
+    <p>Tato stránka je cílená především pro personalisty firem, ktere by mohly mít zájem o moje programátorské schopnosti.</p>
+
+    <!--p>I am a passionate programmer with a decade-long journey in software development.</p>
 
     <h3>Code box</h3>
 

@@ -1,9 +1,27 @@
-<!DOCTYPE html>
+<h1>Under construction</h1>
+<?php die;
+$id = $_GET['id'] ?? 'news';
+if (preg_match('/^[a-zA-Z0-9_-]+$/', $id) === 0) {
+    $id = '404';
+}
+if (file_exists("pages/$id.php")) {
+    $filename = __DIR__ . "/pages/$id.php";
+} else {
+    $filename = __DIR__ . "/pages/404.php";
+}
+$content = file_get_contents($filename);
+$lines = explode("\n", $content);
+if (count($lines) > 0 && preg_match('/<h1>(.*?)<\/h1>/', $lines[0], $matches)) {
+    $pageTitle = $matches[1] . " - ";
+} else {
+    $pageTitle = "";
+}
+?><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title><?=$pageTitle; ?>Zbyněk Rybička.cz</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -19,19 +37,7 @@
     </nav>
 </header>
 <main class="container">
-    <div class="content">
-        <?php
-            $id = $_GET['id'] ?? 'news';
-            if (preg_match('/^[a-zA-Z0-9_-]+$/', $id) === 0) {
-                $id = '404';
-            }
-            if (file_exists("pages/$id.php")) {
-                include("pages/$id.php");
-            } else {
-                include("pages/404.php");
-            }
-        ?>
-    </div>
+    <div class="content"><?php include $filename; ?></div>
 </main>
 </body>
 </html>
