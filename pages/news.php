@@ -1,6 +1,8 @@
+<h1>News</h1>
+
 <div class="activity-feed">
-    <h2>News</h2>
-    <div class="activity-item">
+    <h2>Latest Updates</h2>
+    <!--div class="activity-item">
         <p>I am a passionate programmer with a decade-long journey in software development.</p>
 
         <img src="/images/selfie_crop.jpg" alt="Programmer at work" style="max-width: 300px; border-radius: 150px">
@@ -20,5 +22,5 @@ function example() {
         </code></pre>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-javascript.min.js"></script>
-    </div>
+    </div-->
 </div>
