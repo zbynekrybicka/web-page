@@ -3,7 +3,7 @@
     <div class="activity-item">
         <p>I am a passionate programmer with a decade-long journey in software development.</p>
 
-        <img src="/images/selfie_crop.jpg" alt="Programmer at work">
+        <img src="/images/selfie_crop.jpg" alt="Programmer at work" style="max-width: 300px; border-radius: 150px">
     </div>
 
     <h3>Code box</h3>
