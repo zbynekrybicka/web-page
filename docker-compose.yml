@@ -1,0 +1,17 @@
+# version: '3.9'
+
+services:
+  web:
+    build: .
+    container_name: php_apache
+    volumes:
+      - .:/var/www/html
+    ports:
+      - "1403:80"
+    environment:
+      - APACHE_DOCUMENT_ROOT=/var/www/html
+    networks:
+      - webnet
+
+networks:
+  webnet:
