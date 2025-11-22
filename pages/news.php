@@ -1,10 +1,16 @@
 <h1>News</h1>
 
 <div class="activity-feed">
-    <h2>Starting this web page</h2>
-    <div class="activity-date">17 November 2025</div>
+    <h2>Špagety-kód je můj kamarád: Cesta k nejobtížnější, ale nejvíce ceněné specializaci
+        <div class="activity-date">22. 11. 2025</div>
+    </h2>
+    
 
-    <p>Tato stránka je cílená především pro personalisty firem, ktere by mohly mít zájem o moje programátorské schopnosti.</p>
+    <h3>​Vítejte v Zóně Nechtěných</h3>
+
+    <p>​Většina softwarových inženýrů si přeje sedět u zeleného stolu, kde se píše čistý kód, kde vládne přísná architektura a kde se neustále mluví o Clean Code. Toto je lákavá vize, ale musím se přiznat, že já volím jinou cestu. Zatímco ostatní prchají před hromadou zastaralých, nezdokumentovaných a zmatených systémů, já je vítám s otevřenou náručí. Proč? Protože v jádru zanedbaného legacy projektu leží skutečná profesní zkouška. <a href="/spagety-kod-je-muj-kamarad" class="read-more-link">Více...</a>
+    </p>
+
 
     <!--p>I am a passionate programmer with a decade-long journey in software development.</p>
 
