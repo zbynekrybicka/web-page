@@ -1,8 +1,8 @@
 <pre><?php
+header('Access-Control-Allow-Methods: POST, OPTIONS');
+header('Access-Control-Allow-Headers: Content-Type');
+header('Access-Control-Allow-Origin: *');
 if ($_SERVER["REQUEST_METHOD"] === "OPTIONS") {
-    header('Access-Control-Allow-Methods: POST, OPTIONS');
-    header('Access-Control-Allow-Headers: Content-Type');
-    header('Access-Control-Allow-Origin: *');
     exit(0);
 } else if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $data = $_POST['data'] ?? '';
