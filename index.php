@@ -32,6 +32,7 @@ if (count($lines) > 0 && preg_match('/<h1>(.*?)<\/h1>/', $lines[0], $matches)) {
         <div class="logo">Zbyněk Rybička.cz</div>
         <ul class="nav-links">
             <li><a href="/">Novinky</a></li>
+            <li><a href="/about-me">Světonázory</a></li>
             <!--li><a href="/research-and-experiments">Výzkum a experimenty</a></li-->
             <!--li><a href="/reflections-and-opinions">Reflexe a názory</a></li-->
             <!--li><a href="/hire-me">Najměte mě</a-->

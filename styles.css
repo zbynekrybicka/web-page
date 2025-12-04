@@ -31,11 +31,8 @@ a {
      padding: 20px;
 }
 
-.container .content h1 {
-     padding-bottom: 20px;
-     padding-left: 10px;
-     margin-bottom: 40px;
-     border-bottom: 1px solid #a7a7a7;
+h1 {
+
 }
 
 /* Header / Navigation */
@@ -92,56 +89,51 @@ header {
      margin-bottom: 20px;
 }
 
-.activity-feed h2 {
-     margin: -15px -15px 10px -15px;
-     padding: 15px 15px 10px 15px;
-     background-color: #f6f8fa;
-     border-radius: 6px 6px 0 0;
-     border-bottom: 1px solid #a7a7a7;
+h2 {
+     margin: 40px 0 20px 0;
 }
 
-.activity-feed h2 a {
+h2 a {
      color: #24292e;
      text-decoration: none;
 }
 
-.activity-feed h2 a:hover {
+h2 a:hover {
      text-decoration: underline;
 }
 
-.activity-feed h2 .activity-date {
+h2 .activity-date {
      font-size: 0.5em;
      font-style: italic;
-     background-color: #f6f8fa;
      color: #586069;
      
 }
 
-.activity-feed h3 {
+h3 {
      margin-top: 10px;
      margin-bottom: 10px;
      font-size: 1.2em;
 }
 
-.activity-feed p {
+p {
      margin-bottom: 10px;
 }
 
-.activity-feed pre[class*=language-] {
+pre[class*=language-] {
      padding-top: 0;
      padding-bottom: 0;
 }
 
-.activity-feed .code-box {
+.code-box {
      border: 1px solid #a7a7a7;
      overflow: auto;
      margin-top: 10px;
 }
-.activity-feed .code-box pre {
+.code-box pre {
      margin: 0;
      border-radius: 0;
 }
-.activity-feed img {
+img {
     margin: 0 auto 10px auto;
     display: block;
     max-width: 600px;
