@@ -1,4 +1,7 @@
 <?php
+header('Access-Control-Allow-Methods: GET, POST, OPTIONS');
+header('Access-Control-Allow-Headers: Content-Type');
+header('Access-Control-Allow-Origin: *');
 $id = $_GET['id'] ?? 'news';
 if (preg_match('/^[a-zA-Z0-9_-]+$/', $id) === 0) {
     $id = '404';
