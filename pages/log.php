@@ -3,7 +3,7 @@ if ($_SERVER["REQUEST_METHOD"] === "OPTIONS") {
     exit(0);
 } else if ($_SERVER["REQUEST_METHOD"] === "POST") {
     $data = file_get_contents("php://input");
-    file_put_contents(__DIR__ . '/log.txt', [date("Y-m-d H:i:s"), $data] . PHP_EOL, FILE_APPEND);
+    file_put_contents(__DIR__ . '/log.txt', json_encode([date("Y-m-d H:i:s"), json_decode($data, true)]) . PHP_EOL, FILE_APPEND);
 } else {
     if ($_COOKIE['key'] === "dkfyqow") {
         $content = file_get_contents(__DIR__ . '/log.txt');
