@@ -146,5 +146,5 @@ ostrov se pohnuly ze svého místa."</em></p>
 se tu píše? Na to se poukazuje v dalších pasážích. <em>(spoiler alert: Není to katolická církev)</em></p>
 
 <p>Takových příkladů bych mohl uvést mnoho. A co je nejdůležitější, <strong>všechny tyto pasáže dávají smysl v kontextu událostí, které se skutečně staly</strong>. Se svými bratry
-a sestrami jsme prošli skrz na skrz celou knihu Zjevení a přestože je to velmi dlouhý a složitý soupis událostí, vše do sebe zapadá jako puzzle. A to je ten důvod,
-proč vím, že Ježíš Kristus skutečně existuje a že jeho druhý příchod nastal.</p>
+a sestrami jsme prošli skrz na skrz celou knihu Zjevení a navštívili jsme i místa, kde se některé z uvedených událostí skutečně staly. A přestože je to velmi dlouhý a složitý soupis událostí, vše 
+do sebe zapadá jako puzzle. A to je ten důvod, proč vím, že Ježíš Kristus skutečně existuje a že jeho druhý příchod nastal.</p>
