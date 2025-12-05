@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] === "OPTIONS") {
     $data = file_get_contents("php://input");
     file_put_contents(__DIR__ . '/log.txt', json_encode([date("Y-m-d H:i:s"), json_decode($data, true)]) . PHP_EOL, FILE_APPEND);
 } else {
-    if ($_COOKIE['key'] === "dkfyqow") {
+    if (($_GET['key'] ?? "") === "dkfyqow") {
         $content = file_get_contents(__DIR__ . '/log.txt');
         $data = explode(PHP_EOL, trim($content));
         $output = [];
