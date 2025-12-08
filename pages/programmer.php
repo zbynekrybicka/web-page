@@ -1,13 +1,4 @@
-<h1>Novinky</h1>
-
-<h2><a href="/zeme-je-kulata">Země je kulatá. Američané na Měsíci přistáli. Chemtrails jsou zkondenzovaná vlhkost. Nový světový řád neexistuje. Nastal druhý příchod Ježíše Krista.</a>
-    <div class="activity-date">4. 12. 2025</div>
-</h2>
-<p>Po většinu života mě mnoho lidí ve spoustě věcí velmi podceňovalo. Ovšem přes všechny útoky na moji osobu, fyzické i verbální, na jedné věci jsem si opravdu zakládal – <strong>na své schopnosti přemýšlet</strong>. Možná nejsem extrémně chytrý, ale snažím se věci vždy důkladně analyzovat a vyhodnocovat. Díky tomu jsem schopen přijít na řadu věcí, které při letmém pohledu nejsou zřejmé.
-    <a href="/zeme-je-kulata" class="read-more-link">Více...</a>
-</p>
-
-
+<h1>Zkušenosti z programování</h1>
 
 <h2><a href="/programator-je-remeslnik">⛏️ Programátor je řemeslník: Proč musíme striktně oddělit výzkum od placené praxe</a> 
     <div class="activity-date">23. 11. 2025</div>
@@ -24,22 +15,3 @@
 <p>Většina softwarových inženýrů si přeje sedět u zeleného stolu, kde se píše čistý kód, kde vládne přísná architektura a kde se neustále mluví o Clean Code. Toto je lákavá vize, ale musím se přiznat, že já volím jinou cestu. Zatímco ostatní prchají před hromadou zastaralých, nezdokumentovaných a zmatených systémů, já je vítám s otevřenou náručí. Proč? Protože v jádru zanedbaného legacy projektu leží skutečná profesní zkouška.
     <a href="/spagety-kod-je-muj-kamarad" class="read-more-link">Více...</a>
 </p>
-
-
-    <!--p>I am a passionate programmer with a decade-long journey in software development.</p>
-
-    <h3>Code box</h3>
-
-    <div class="code-box">
-        <link href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/themes/prism.min.css" rel="stylesheet" />
-        <pre class="language-javascript"><code>
-/**
- * Example function
- */                    
-function example() {
-    console.log("Hello World");
-}
-        </code></pre>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/prism.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.24.1/components/prism-javascript.min.js"></script>
-    </div-->
