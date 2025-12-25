@@ -1,5 +1,14 @@
 <h1>Zkušenosti z programování</h1>
 
+<h2><a href="/proc-nemazu-logy">Proč nemažu logy: Archeologie kódu a systém v chaosu</a>
+    <div class="activity-date">25. 12. 2025</div>
+</h2>
+
+<p>V každé učebnici čistého kódu se dočtete: „Nepoužívejte zakomentovaný kód. Odstraňujte logy. Od toho máte Git.“ Zní to krásně v teorii nového projektu na zelené louce. Ale v momentě, kdy vstoupíte do temných chodeb deset let starého legacy systému, který drží pohromadě kritický byznys, tyto poučky začínají praskat.
+    <a href="/proc-nemazu-logy" class="read-more-link">Více...</a>
+</p>
+
+
 <h2><a href="/programator-je-remeslnik">⛏️ Programátor je řemeslník: Proč musíme striktně oddělit výzkum od placené praxe</a> 
     <div class="activity-date">23. 11. 2025</div>
 </h2>

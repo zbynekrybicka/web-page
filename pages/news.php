@@ -1,5 +1,15 @@
 <h1>Novinky</h1>
 
+
+<h2><a href="/proc-nemazu-logy">Proč nemažu logy: Archeologie kódu a systém v chaosu</a>
+    <div class="activity-date">25. 12. 2025</div>
+</h2>
+
+<p>V každé učebnici čistého kódu se dočtete: „Nepoužívejte zakomentovaný kód. Odstraňujte logy. Od toho máte Git.“ Zní to krásně v teorii nového projektu na zelené louce. Ale v momentě, kdy vstoupíte do temných chodeb deset let starého legacy systému, který drží pohromadě kritický byznys, tyto poučky začínají praskat.
+    <a href="/proc-nemazu-logy" class="read-more-link">Více...</a>
+</p>
+
+
 <h2><a href="/zeme-je-kulata">Země je kulatá. Američané na Měsíci přistáli. Chemtrails jsou zkondenzovaná vlhkost. Nový světový řád neexistuje. Nastal druhý příchod Ježíše Krista.</a>
     <div class="activity-date">4. 12. 2025</div>
 </h2>

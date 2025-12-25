@@ -35,4 +35,3 @@
 </ul>
 
 <p>Pokud se Vaše společnost potýká s kritickým legacy systémem, který je v katastrofálním stavu, který Vám brání v rozvoji a který generuje neustálé noční můry, <a href="mailto: zbynek.rybicka@gmail.com">napište mi</a>. Můj špagety-kód je můj kamarád a já jsem připraven s ním navázat vztah ve prospěch Vašeho byznysu. Rád Vám ukážu, jak transformovat technický dluh na stabilní a ziskový provoz.</p>
-</div>
