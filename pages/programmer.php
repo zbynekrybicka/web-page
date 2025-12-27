@@ -8,6 +8,8 @@
     <a href="/proc-nemazu-logy" class="read-more-link">Více...</a>
 </p>
 
+<hr/>
+
 
 <h2><a href="/programator-je-remeslnik">⛏️ Programátor je řemeslník: Proč musíme striktně oddělit výzkum od placené praxe</a> 
     <div class="activity-date">23. 11. 2025</div>
@@ -16,6 +18,7 @@
     <a href="/programator-je-remeslnik" class="read-more-link">Více...</a>
 </p>
 
+<hr/>
 
 
 <h2><a href="/spagety-kod-je-muj-kamarad">Špagety-kód je můj kamarád: Cesta k nejobtížnější, ale nejvíce ceněné specializaci</a> 

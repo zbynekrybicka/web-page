@@ -7,6 +7,8 @@
     <a href="/chci-znat-pravdu" class="read-more-link">Více...</a>
 </p>
 
+<hr/>
+
 
 <h2><a href="/zeme-je-kulata">Země je kulatá. Američané na Měsíci přistáli. Chemtrails jsou zkondenzovaná vlhkost. Nový světový řád neexistuje. Nastal druhý příchod Ježíše Krista.
     <div class="activity-date">4. 12. 2025</div>

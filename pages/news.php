@@ -8,7 +8,7 @@
     <a href="/chci-znat-pravdu" class="read-more-link">Více...</a>
 </p>
 
-
+<hr/>
 
 <h2><a href="/proc-nemazu-logy">Proč nemažu logy: Archeologie kódu a systém v chaosu</a>
     <div class="activity-date">25. 12. 2025</div>
@@ -18,6 +18,8 @@
     <a href="/proc-nemazu-logy" class="read-more-link">Více...</a>
 </p>
 
+<hr/>
+
 
 <h2><a href="/zeme-je-kulata">Země je kulatá. Američané na Měsíci přistáli. Chemtrails jsou zkondenzovaná vlhkost. Nový světový řád neexistuje. Nastal druhý příchod Ježíše Krista.</a>
     <div class="activity-date">4. 12. 2025</div>
@@ -26,6 +28,7 @@
     <a href="/zeme-je-kulata" class="read-more-link">Více...</a>
 </p>
 
+<hr/>
 
 
 <h2><a href="/programator-je-remeslnik">⛏️ Programátor je řemeslník: Proč musíme striktně oddělit výzkum od placené praxe</a> 
@@ -35,6 +38,7 @@
     <a href="/programator-je-remeslnik" class="read-more-link">Více...</a>
 </p>
 
+<hr/>
 
 
 <h2><a href="/spagety-kod-je-muj-kamarad">Špagety-kód je můj kamarád: Cesta k nejobtížnější, ale nejvíce ceněné specializaci</a> 
