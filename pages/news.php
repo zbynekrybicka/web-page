@@ -1,5 +1,14 @@
 <h1>Novinky</h1>
 
+<h2><a href="/chci-znat-pravdu">Chci znát pravdu, i když se mi nelíbí</a>
+    <div class="activity-date">27. 12. 2025</div>
+</h2>
+
+<p>Jako programátor a řemeslník jsem se naučil jednu zásadní věc: realita se neptá na vaše pocity. Pokud je v kódu chyba, systém spadne, i kdybychom si stokrát přáli, aby běžel dál. V profesním životě striktně odděluji laboratoř od dílny, protože v dílně vládne prediktabilita a ověřené postupy. A stejný přístup uplatňuji i v životě. <strong>Trvám na tom, že krutá pravda je vždy lepší než milosrdná lež.</strong> Lež je totiž jako technický dluh – v danou chvíli se může zdát pohodlná, ale úroky, které za ni později zaplatíte, mohou zničit celý projekt vašeho života.
+    <a href="/chci-znat-pravdu" class="read-more-link">Více...</a>
+</p>
+
+
 
 <h2><a href="/proc-nemazu-logy">Proč nemažu logy: Archeologie kódu a systém v chaosu</a>
     <div class="activity-date">25. 12. 2025</div>
