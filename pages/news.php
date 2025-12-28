@@ -1,5 +1,14 @@
 <h1>Novinky</h1>
 
+<h2><a href="/jsem-sova">Jsem sova: Proč můj vnitřní procesor bootuje až odpoledne</a>
+    <div class="activity-date">28. 12. 2025</div>
+</h2>
+
+<p>V našem světě orientovaném na výkon se ranní vstávání glorifikuje jako základní stavební kámen úspěchu. „Ranní ptáče dál doskáče,“ říká se. Jako programátor a řemeslník, který si zakládá na datech a výsledcích, jsem se dlouho snažil tento model adoptovat. Jenže realita mého biologického hardwaru má jinou specifikaci.
+    <a href="/jsem-sova" class="read-more-link">Více...</a>
+</p>
+
+
 <h2><a href="/chci-znat-pravdu">Chci znát pravdu, i když se mi nelíbí</a>
     <div class="activity-date">27. 12. 2025</div>
 </h2>
