@@ -8,6 +8,8 @@
     <a href="/jsem-sova" class="read-more-link">Více...</a>
 </p>
 
+<hr/>
+
 
 <h2><a href="/chci-znat-pravdu">Chci znát pravdu, i když se mi nelíbí</a>
     <div class="activity-date">27. 12. 2025</div>
