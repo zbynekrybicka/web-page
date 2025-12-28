@@ -18,13 +18,13 @@
 
 <p>Vždycky jsem chtěl znát pravdu a uznávám, že jsem s tím byl občas otravný. V emotivních debatách, ať už v hospodě nebo na internetu, jsem se vždy ptal přímo: <strong>"A jak to teda doopravdy je?"</strong> Tato zarputilost mě nakonec dovedla k té nejvyšší pravdě – <strong>k porozumění Božímu slovu</strong>.</p>
 
-<p>Moje cesta však nebyla snadná. Navštívil jsem řadu křesťanských sborů, ale moje kosa tam narazila na kámen, nebo spíše na tvrdý karmeltazit. Měl jsem otázky, na které "pravověrní" neuměli nebo nechtěli odpovědět:</p>
+<p>Moje cesta však nebyla snadná. Navštívil jsem řadu křesťanských sborů, ale moje kosa tam narazila na tvrdý křemen, ne-li karmeltazit. Měl jsem otázky, na které "pravověrní" neuměli nebo nechtěli odpovědět:</p>
 
 <ul>
 <li><strong>Logika Trojice:</strong> Pokud se při křtu ozve z nebe "Toto je můj milovaný syn" a Ježíš se modlí k Otci, proč církve tvrdí, že Ježíš je Bůh? </li>
 <li><strong>Modloslužba:</strong> Proč jsou katolické kostely plné soch a obrazů, když se Bůh v Bibli jasně vymezuje proti "rytinám" a ztvárňování Boží podoby? Odpověď "to je tradice" pro mě jako pro řemeslníka, který ctí návody a specifikace, neexistuje.</li>
 <li><strong>Absurdita zpovědi:</strong> Ježíš definoval hřích velmi přísně – i toužebný pohled na ženu je cizoložství. Jaký má smysl jít pak na zpověď a mít "vyřešeno"? To bychom mohli i vraždit a pak si nechat vše odpustit? To nedává žádný logický smysl.</li>
-<li><strong>Zdraví a sexualita:</strong> Když jsem s křesťany řešil Pavlovu obsesi sexuální zdrženlivostí, měl jsem podezření, zda nebyl sám impotentní. Lékaři mi potvrdili, že totální zdrženlivost může podlomit fyzické i psychické zdraví. Odpověď "modli se za to" mě téměř dohnala k nervovému zkratu. Také mě strašili příběhem Onana, přestože ten byl potrestán za chamtivost a odmítnutí zplodit dědice, nikoliv za samotný akt.</li>
+<li><strong>Zdraví a sexualita:</strong> Když jsem s křesťany řešil Pavlovu obsesi sexuální zdrženlivostí, měl jsem podezření, zda nebyl sám impotentní a prosazoval skrytě postoj "když já nemůžu, tak ostatní taky ne". Lékaři mi potvrdili, že sexuální  zdrženlivost může v případě mojí osoby značně podlomit i moje fyzické zdraví. O psychickém nemluvě. Odpověď "modli se za to" mě téměř dohnala k nervovému zkratu. Když jsem se ale ptal, kde v Bibli je nařízeno takové trýznění, vytáhli příběh Onana, přestože ten byl potrestán za chamtivost a odmítnutí zplodit dědice, nikoliv za uspokojování sebe sama někdy považováno za sobectví.</li>
 </ul>
 
 <h2>Racionální víra a zkouška věrnosti</h2>
