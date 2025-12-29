@@ -15,6 +15,7 @@
     <a href="https://github.com/zbynekrybicka/gnerate/commit/28a62d62a9f380219ff91872ceb11734ff462224" target="_blank" class="read-more-link">Více...</a>
 </p>
 
+<hr/>
 
 
 <h2><a href="https://github.com/zbynekrybicka/gnerate/commit/d6d22e61b8f075b8fe4b498e19c57ee39b09f08e" target="_blank">ganderzz/gnerate &ndash; Při IF lépe testovat funkci, která přímo vrací boolean</a>

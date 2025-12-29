@@ -1,5 +1,16 @@
 <h1>Zkušenosti z programování</h1>
 
+<h2><a href="/oop">OOP je nástroj, ne modla: Pohled z programátorské dílny</a>
+    <div class="activity-date">29. 12. 2025</div>
+</h2>
+
+<p>V mé dílně vládne realita. Jako programátor, který se raději vrtá v deset let starém legacy kódu, než aby teoretizoval u kulatého stolu o čistotě architektury, se na Object-Oriented Programming (OOP) dívám optikou řemeslníka. OOP není náboženství, je to nástroj. A jako každý nástroj, i tento bývá často používán špatně – buď ze zvyku, nebo z nepochopení jeho skutečné podstaty.
+    <a href="/oop" class="read-more-link">Více...</a>
+</p>
+
+<hr />
+
+
 <h2><a href="/proc-nemazu-logy">Proč nemažu logy: Archeologie kódu a systém v chaosu</a>
     <div class="activity-date">25. 12. 2025</div>
 </h2>
