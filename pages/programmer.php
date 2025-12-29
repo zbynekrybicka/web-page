@@ -1,5 +1,16 @@
 <h1>Zkušenosti z programování</h1>
 
+<h2><a href="/typova-kontrola">Typová kontrola: Proč řemeslník nepracuje s „univerzálním materiálem“</a>
+    <div class="activity-date">29. 12. 2025</div>
+</h2>
+
+<p>V mé programátorské dílně vládne realita. Jako řemeslník, který se často vrtá v útrobách deset let starých systémů, vím, že největším nepřítelem není nedostatek kreativity, ale chaos v datech. Typová kontrola není akademická disciplína pro puristy; je to základní bezpečnostní prvek, který odděluje profesionální konstrukci od domu postaveného z písku.
+    <a href="/typova-kontrola" class="read-more-link">Více...</a>
+</p>
+
+<hr />
+
+
 <h2><a href="/oop">OOP je nástroj, ne modla: Pohled z programátorské dílny</a>
     <div class="activity-date">29. 12. 2025</div>
 </h2>
